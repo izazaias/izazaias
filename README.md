@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer in Training | Tech Support
 -----------------------------------------------
 
-Sou estudante de Análise e Desenvolvimento de Sistemas pelo Senac MG e atualmente atuo como auxiliar de TI. Tenho experiência com suporte técnico além de estar desenvolvendo projetos web como o "Controle de Frotas", que visa otimizar a gestão de operações logísticas. Tenho interesse especial por desenvolvimento front-end e estou sempre buscando evoluir minhas habilidades com Laravel, React, JavaScript, Docker, HTML e CSS. Busco fazer parte de uma equipe de desenvolvimento onde eu possa crescer, colaborar e aprender com profissionais experientes.
+🎓 Sou estudante de Análise e Desenvolvimento de Sistemas pelo Senac MG e atualmente trabalho como auxiliar de TI.<br>
+💡 Tenho interesse especial por desenvolvimento front-end e estou sempre buscando evoluir minhas habilidades com:
+Laravel, React, JavaScript, Docker, HTML, CSS e muito mais.<br>
+🤝 Busco fazer parte de uma equipe de desenvolvimento onde eu possa crescer, colaborar e aprender com profissionais experientes.
 
 * 🌍  I'm based in Divinópolis, Minas Gerais, Brazil
 * 🖥️  See my portfolio at [Controle de Frotas - CiaTec](http://github.com/CIATEC-senac)
