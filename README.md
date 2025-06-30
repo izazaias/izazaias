@@ -12,7 +12,7 @@ Laravel, React, JavaScript, Docker, HTML, CSS e muito mais.<br>
 * 🌍  I'm based in Divinópolis, Minas Gerais, Brazil
 * 🖥️  See my portfolio at [Controle de Frotas - CiaTec](http://github.com/CIATEC-senac)
 * ✉️  You can contact me at [isaiasstosoliveira1998@gmail.com](mailto:isaiasstosoliveira1998@gmail.com)
-* 🚀  I'm currently working on [Clone TabNews](http://github.com/izazaias/clone-tabnews)
+* 🚀  I'm currently working on [Portfólio Pessoal](https://github.com/izazaias/portfolio)
 * 🧠  I'm learning Visual Studio
 
 ### Skills
